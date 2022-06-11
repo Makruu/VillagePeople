@@ -1,0 +1,10 @@
+DatagridView
+	Behavior:
+	- AllowUserToAddRows: False
+	- AllowUserToDeleteRows: False
+	- Multiselect: False
+	- ReadOnly: True
+	- SelectionMode: FullRowSelect
+	Layout:
+	- Anchor: Top, Bottom, Left, Right
+	- AutoSizeColumnsMode: Fill
